@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LOGU084cNt2QN8s9Ww/BELzW7l5df9slyn2pSWskvsU18Ju89HHJinuyNE0zRYJD7b3DdYPDK1VVde7VdW4nbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\notfi\\Desktop\\New folder (2)\\5\\RandomTag\\RandomTag\\RandomTag.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\notfi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\notfi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
